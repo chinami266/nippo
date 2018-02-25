@@ -23,6 +23,10 @@ Sketchのプラグイン、Runnerが便利みたいだけど、英語でパッ�
 
 > [Sketch Runner](http://sketchrunner.com/)
 
+GoogleのMaterial Design Lite。いろいろ参考になりそうなので勉強しようね。（言い聞かせる）
+
+> [Material Design Lite](https://getmdl.io/index.html)
+
 ## CSS設計の教科書
 ### Web Compornentsのこと
 webのUIをコンポーネント化するための仕様
