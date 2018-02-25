@@ -19,6 +19,10 @@ https://chinami266.github.io/blog/
 > [GitHub Pages を使った静的サイトの公開方法が、とても簡単になっていた ｜ Tips Note by TAM](https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html)
 > [Material Design LiteとGithub Pagesで爆速でかっこいいWebページをつくろう！【ステップ付！】 \- Qiita](https://qiita.com/soyanchu/items/618490988d7e7f2f1a89)
 
+Sketchのプラグイン、Runnerが便利みたいだけど、英語でパッと理解できなかった。あとで調べる。
+
+> [Sketch Runner](http://sketchrunner.com/)
+
 ## CSS設計の教科書
 ### Web Compornentsのこと
 webのUIをコンポーネント化するための仕様
